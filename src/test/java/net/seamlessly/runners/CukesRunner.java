@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
                 ,"me.jvt.cucumber.report.PrettyReports:target/cucumber",
                 "rerun:target/rerun.txt"
                 },
-        features = "src/test/resources/features",
+        features = "src/test/java/resources/features",
         glue = "net/seamlessly/step_definitions",
         dryRun = true,
         tags = "",
