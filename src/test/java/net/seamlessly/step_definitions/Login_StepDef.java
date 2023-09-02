@@ -4,13 +4,13 @@ import io.cucumber.java.en.Given;
 
 public class Login_StepDef {
 
-    @Given("a")
-    public void a() {
+    @Given("a1")
+    public void a1() {
 
     }
 
-    @Given("b")
-    public void b() {
+    @Given("b1")
+    public void b1() {
 
     }
 }
